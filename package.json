@@ -1,0 +1,28 @@
+{
+  "name": "deafcast",
+  "version": "1.0.0",
+  "description": "podcast for the deaf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jody29/deafcast.git"
+  },
+  "keywords": [
+    "nodejs",
+    "HCD",
+    "deaf",
+    "accesebility"
+  ],
+  "author": "Jody Lorist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jody29/deafcast/issues"
+  },
+  "homepage": "https://github.com/jody29/deafcast#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
