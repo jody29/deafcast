@@ -2,9 +2,13 @@ const express = require('express')
 const router = express.Router()
 const path = require('path')
 const bodyParser = require('body-parser')
+const { content } = require('../modules/getPodcasts.js')
+const links = require('../data/links.json')
+const fs = require('fs')
+
 
 router
-.get('/', (req, res) => {
+.get('/', async (req, res) => {
     const date = new Date().getHours()
 
     const greeting = () => {
@@ -18,10 +22,18 @@ router
             return 'Goedenacht'
         }
     }
+
+    const data = JSON.parse(fs.readFileSync('./src/data/links.json'))
     
     res.render('pages/index', {
-        greeting: greeting()
+        greeting: greeting(),
+        data
     })
+})
+.get('podcast/:id', (req, res) => {
+    console.log(req.params)
 })
 
 module.exports = router
+
+// https://vasilis.nl/gbi/

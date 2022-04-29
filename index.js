@@ -5,11 +5,11 @@ const bodyParser = require('body-parser')
 const PORT = process.env.PORT || 5500
 const app = express()
 
-const homeRoute = require('./routers/homeRoute.js')
+const homeRoute = require('./src/routers/homeRoute.js')
 
 app
 .set('view engine', 'ejs')
-.set('views', path.join(__dirname, 'views'))
+.set('views', path.join(__dirname, 'src/views'))
 .use(express.static(__dirname + '/public'))
 .use(bodyParser.urlencoded({ extended: true }))
 .use('/', homeRoute)

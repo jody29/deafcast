@@ -7,7 +7,11 @@
 <body>
     <%- include('../partials/header') %> 
     <main>
-        <h1><%= greeting %> Marie!</h1>
+        <% data.forEach(podcast => { %>
+            <a href="podcast/<%= podcast.link %> ">
+                <h1><%= podcast.name %></h1>
+            </a>
+        <% }) %> 
     </main>
 </body>
 </html>
