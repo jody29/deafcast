@@ -9,7 +9,6 @@ const renderPodcast = (readingSpeed) => {
 
     fetchData()
     .then(data => {
-        console.log(data)
         data.transcript.forEach(part => {
             const item = document.createElement('div')
             const text = document.createElement('span')

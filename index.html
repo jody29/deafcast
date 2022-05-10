@@ -10,13 +10,26 @@
 </head>
 <body>
     <header>
-
+        <h1>The Good, The Bad, and The Interesting</h1>
     </header>
     <main>
+        <article>
+            <h2>Jenny Shen</h2>
+            <blockquote>in conversation with Vasilis van Gemert</blockquote>
+            <p>Jenny is an independent UX/Product designer who at the moment specialises in cross-cultural design for the travel industry. I saw her talk about this subject a while ago at CSS Day, so of course we talk about this a lot. We wonder, for instance, if the question what makes a thing good yields different results in different countries.</p>
+        </article>
+
         <form action="">
             <label for="">reading speed: <span id="currentSpeed"></span> </label>
             <input type="range" min="20" max="150" value="50" name="speed" id="speed">
         </form>
+        
+        <section>
+        <button id="startPodcast">Start reading</button>
+        <button id="pause">Pause</button>
+        <button id="resume">Resume</button>
+        </section>
+
         <ul id="podcast"></ul>
     </main>
 </body>
