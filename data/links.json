@@ -3,37 +3,47 @@
         {
             "words": [
                 {
-                    "word": "Well"
+                    "word": "Well",
+                    "emotion": "uplifting"
                 },
                 {
-                    "word": "you"
+                    "word": "you",
+                    "emotion": "uplifting"
                 },
                 {
-                    "word": "could"
+                    "word": "could",
+                    "emotion": "uplifting"
                 },
                 {
                     "word": "..."
                 },
                 {
-                    "word": "I"
+                    "word": "I",
+                    "emotion": "thinking"
                 },
                 {
-                    "word": "mean"
+                    "word": "mean",
+                    "emotion": "thinking"
                 },
                 {
-                    "word": "if"
+                    "word": "if",
+                    "emotion": "thinking"
                 },
                 {
-                    "word": "you"
+                    "word": "you",
+                    "emotion": "thinking"
                 },
                 {
-                    "word": "look"
+                    "word": "look",
+                    "emotion": "thinking"
                 },
                 {
-                    "word": "at"
+                    "word": "at",
+                    "emotion": "thinking"
                 },
                 {
-                    "word": "it. "
+                    "word": "it. ",
+                    "emotion": "thinking"
                 },
                 {
                     "word": "I"
@@ -72,10 +82,12 @@
                     "word": "a"
                 },
                 {
-                    "word": "little"
+                    "word": "little",
+                    "emotion": "thinking"
                 },
                 {
-                    "word": "bit"
+                    "word": "bit",
+                    "emotion": "thinking"
                 },
                 {
                     "word": "more"
@@ -114,7 +126,8 @@
                     "word": "in"
                 },
                 {
-                    "word": "rural"
+                    "word": "rural",
+                    "emotion": "thinking"
                 },
                 {
                     "word": "areas, "

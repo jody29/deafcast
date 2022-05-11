@@ -14,8 +14,25 @@ readingSpeed.addEventListener('change', (e) => {
     console.log(speed)
 })
 
+let index = 0
+
 startPodcast.addEventListener('click', () => {
-    renderPodcast(speed)
+    index = 0
+    renderPodcast(speed, index, () => {
+        console.log('done')
+        index++
+    })
+})
+
+document.addEventListener('keyup', e => {
+    if (e.code === 'Space') {
+        if (index !== 0) {
+            renderPodcast(speed, index, () => {
+                console.log('done')
+                index++
+            })
+        }
+    }
 })
 
 

@@ -1,5 +1,5 @@
-const fetchData = () => {
-    const podcast = fetch('../../data/links.json')
+const fetchData = async () => {
+    const podcast = await fetch('../../data/links.json')
     .then(res => res.json())
     .then(data => {
         return data
