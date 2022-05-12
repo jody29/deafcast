@@ -25,13 +25,13 @@ Omdat Marie op dit moment de nuance in een podcast heel erg mist. Als ze op dit 
 
 ## Exclusive Design Principles
 ### Study situation
-Marie is doof geboren en heeft dus nog nooit iets kunnen horen. Ze weet dus ook niet hoe bepaalde dingen klinken. Marie kan in een tekst niet eruit halen hoe een persoon iets zegt en welke emotie er achter zit. Daarom heb ik geprobeerd door middel van verschillende lettertypes de emotie te tonen die erachter zit. Ook wilde Marie dat dit zo uitgesproken mogelijk zou gebeuren.
+Marie is doof geboren en heeft dus nog nooit iets kunnen horen. Ze weet dus ook niet hoe bepaalde dingen klinken. Marie kan in een tekst niet eruit halen hoe een persoon iets zegt en welke emotie er achter zit. Daarom heb ik geprobeerd door middel van verschillende lettertypes de emotie te tonen die erachter zit. Ook wilde Marie dat dit zo uitgesproken mogelijk zou gebeuren. Ook is Marie een ongeduldig type, daarom heb ik ervoor gezorgd dat ze de snelheid van de tekst kan aanpassen.
 
 ### Ignore conventions
 Vaak wordt er gezegd dat veel verschillende lettertypes geen goed design is. In het geval van Marie kan door gebruik te maken van verschillende lettertypes juist meer emotie overgebracht worden.
 
 ### Prioritize identity
-Marie is een UX-designer en heb daarom ervoor gekozen om een podcast te gebruiken die over UX gaat. Dit lijkt mij voor Marie het meest interessant om te lezen. Ook kwam ik erachter dat de favoriete kleur van Marie geel is. Daarom heb ik zoveel mogelijk geel gebruikt in mijn ontwerp
+Marie is een UX-designer en heb daarom ervoor gekozen om een podcast te gebruiken die over UX gaat. Dit lijkt mij voor Marie het meest interessant om te lezen. Ook kwam ik erachter dat de favoriete kleur van Marie geel is. Daarom heb ik zoveel mogelijk geel gebruikt in mijn ontwerp.
 
 ### Add nonsense
 

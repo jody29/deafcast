@@ -4,25 +4,43 @@ const readingSpeed = document.querySelector('#speed')
 const currentSpeed = document.querySelector('#currentSpeed')
 const startPodcast = document.querySelector('#startPodcast')
 const podcast = document.querySelector('#podcast')
+const podcastCont = document.querySelector('#podcastCont')
 
-let scrollRate = 10
+let scrollRate = 30
 let scrollInterval 
 
-currentSpeed.textContent = `1 word per ${scrollRate}ms`
+podcastCont.classList.add('hidden')
 
 readingSpeed.addEventListener('change', (e) => {
-    currentSpeed.textContent = `1 word per ${e.target.value}ms`
     scrollRate = e.target.value
-    console.log(scrollRate)
+    
+    if (scrollInterval) {
+        clearInterval(scrollInterval)
+
+        scrollInterval = setInterval(scrollUl, scrollRate)
+    }
 })
 
 startPodcast.addEventListener('click', () => {
-    podcast.scrollIntoView({ behavior: "smooth" })
+    podcastCont.classList.remove('hidden')
+
+    podcastCont.scrollIntoView({ behavior: "smooth" })
     renderPodcast()
     setTimeout(()=>{
         scrollUl_init()
     },2000)
 })
+
+window.addEventListener('load', () => {
+    if (history.scrollRestoration) {
+        history.scrollRestoration = 'manual'
+    } else {
+        window.onbeforeunload = function () {
+            window.scrollTo(0, 0)
+        }
+    }
+})
+
 
 const scrollUl_init = () => {
     scrollInterval = setInterval(scrollUl, scrollRate)
