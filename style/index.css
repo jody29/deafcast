@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'Positive';
+    src: url(/assets/fonts/Panipuri.ttf);
+}
+
+@font-face {
+    font-family: 'Stretch';
+    src: url(/assets/fonts/StretchPro.otf);
+}
+
 *, *::before, *::after {
     box-sizing: border-box;
     margin: 0;
@@ -185,4 +195,19 @@ ul div p {
 
 .hidden {
     display: none;
+}
+
+.stretch {
+    /* transform: scale(1.5, 1);
+    margin-right: 1rem;
+    margin-left: 1rem; */
+    font-weight: bold;
+    font-family: 'Stretch';
+}
+
+.positive {
+    font-family: 'Positive';
+    font-size: 2rem;
+    transform: scale(2, 1);
+    margin: 0 3rem;
 }

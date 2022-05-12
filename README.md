@@ -34,6 +34,7 @@ Vaak wordt er gezegd dat veel verschillende lettertypes geen goed design is. In 
 Marie is een UX-designer en heb daarom ervoor gekozen om een podcast te gebruiken die over UX gaat. Dit lijkt mij voor Marie het meest interessant om te lezen. Ook kwam ik erachter dat de favoriete kleur van Marie geel is. Daarom heb ik zoveel mogelijk geel gebruikt in mijn ontwerp.
 
 ### Add nonsense
+Gezien Marie graag wijn drinkt, wilde ik een wijnfles gebruiken als progress bar. Hoe verder je bent in de podcast, des te leger de wijnfles zou zijn. Door gebrek aan tijd ben ik hier helaas niet aan gekomen.
 
 ## Iteration
 ### prototype 1
@@ -43,9 +44,11 @@ Marie is een UX-designer en heb daarom ervoor gekozen om een podcast te gebruike
 <img width="1440" alt="Schermafbeelding 2022-05-12 om 10 58 08" src="https://user-images.githubusercontent.com/66092262/168157824-c80ef32c-31ae-49df-aab4-7e0d3b0eb693.png">
 
 ### prototype 3
-
+<img width="1440" alt="Schermafbeelding 2022-05-13 om 00 34 03" src="https://user-images.githubusercontent.com/66092262/168178409-97dcc30f-23b8-4f3f-b67b-49fcd3997833.png">
 
 ## Testing
 [Test 1](https://github.com/jody29/deafcast/wiki/Test-1)
+[Test 2](https://github.com/jody29/deafcast/wiki/Test-2)
+[Test 3](https://github.com/jody29/deafcast/wiki/Test-3)
 
 
