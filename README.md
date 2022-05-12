@@ -1,4 +1,5 @@
-# Deafcast
+# readcast
+<img width="1440" alt="Schermafbeelding 2022-05-13 om 00 34 03" src="https://user-images.githubusercontent.com/66092262/168178409-97dcc30f-23b8-4f3f-b67b-49fcd3997833.png">
 
 ## Beschrijving
 Voor dit project mocht ik een ontwerp maken voor 1 mens. Dit ontwerp mocht ik 3 keer testen. Door dit te testen en te itereren kan ik het onwerp verbeteren en uiteindelijk op een exclusive design voor deze persoon komen. Ik mocht een ontwerp gaan maken voor Marie. Marie is doof geboren en kan dus niks horen en weet dus ook niet hoe bepaalde dingen klonken. Bij het luisteren van een podcast krijgt ze dus niet dezelfde ervaring als mensen die kunnen horen. Dit komt omdat een transcript nuance en emotie mist die normaal te horen is bij een podcast. Ik heb er in mijn design geprobeerd voor te zorgen dat Marie iets meer van de nuance mee krijgt door verschil in font-weight en font-style bij bepaalde woorden toe te passen..
