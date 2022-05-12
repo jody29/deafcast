@@ -6,7 +6,7 @@ const startPodcast = document.querySelector('#startPodcast')
 const podcast = document.querySelector('#podcast')
 const podcastCont = document.querySelector('#podcastCont')
 
-let scrollRate = 30
+let scrollRate = 50
 let scrollInterval 
 
 podcastCont.classList.add('hidden')
