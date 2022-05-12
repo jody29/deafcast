@@ -8,6 +8,7 @@
 body {
     min-height: 100vh;
     position: relative;
+    background-color: #FFD100;
 }
 
 header,
@@ -33,10 +34,11 @@ main form input {
 main article {
     margin-bottom: 2rem;
     width: 50%;
-}
-
-main article h2 {
-    margin-top: 2rem;
+    height: fit-content;
+    background-color: white;
+    padding: 2rem;
+    border-radius: .5rem;
+    box-shadow: -30px 20px 10px #FFB800;
 }
 
 main article p {
@@ -48,7 +50,7 @@ main button {
     padding: 1rem;
     border-radius: 1rem;
     border: 0;
-    box-shadow: 0px 0px 5px black;
+    box-shadow: 0px 0px 5px rgba(0,0,0,.3);
     font-weight: bold;
     margin-right: 1rem;
 }
@@ -56,17 +58,21 @@ main button {
 ul {
     margin-top: 2rem;
     list-style: none;
-    width: 100%;
+    width: calc(100% - 2rem);
+    max-width: 70vw;
+    padding: 1rem;
+    margin: 0 auto;
 }
 
 ul div {
     display: flex;
     flex-direction: column;
     width: 50%;
-    background-color: beige;
+    background-color: white;
     padding: 1rem;
     border-radius: 1rem 1rem 1rem 0;
-    box-shadow: 0px 0px 10px black;
+    box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+    margin-bottom: 1rem;
 }
 
 ul div span {
@@ -95,4 +101,14 @@ ul div p {
 
 .guest {
     margin-left: auto;
+    background-color: black;
+    color: white;
+    border-radius: 1rem 1rem 0 1rem;
+}
+
+#podcast {
+    height: 95vh;
+    padding: 2rem;
+    margin-top: 1rem;
+    overflow-y: scroll;
 }

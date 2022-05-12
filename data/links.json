@@ -4,7 +4,8 @@
             "words": [
                 {
                     "word": "Well",
-                    "emotion": "uplifting"
+                    "emotion": "uplifting",
+                    "duration": 1000
                 },
                 {
                     "word": "you",
@@ -166,6 +167,1286 @@
                 }
             ],
             "person": "Jenny"
+        },
+        {
+            "words": [
+                {
+                    "word": "Well",
+                    "emotion": "uplifting",
+                    "duration": 1000
+                },
+                {
+                    "word": "you",
+                    "emotion": "uplifting"
+                },
+                {
+                    "word": "could",
+                    "emotion": "uplifting"
+                },
+                {
+                    "word": "..."
+                },
+                {
+                    "word": "I",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "mean",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "if",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "you",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "look",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "at",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "it. ",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "I"
+                },
+                {
+                    "word": "am"
+                },
+                {
+                    "word": "generalizing"
+                },
+                {
+                    "word": "here, "
+                },
+                {
+                    "word": "but"
+                },
+                {
+                    "word": "in"
+                },
+                {
+                    "word": "cities"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "usually"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "little",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "bit",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "social"
+                },
+                {
+                    "word": "and"
+                },
+                {
+                    "word": "liberal"
+                },
+                {
+                    "word": "and"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "bit"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "conservative"
+                },
+                {
+                    "word": "in"
+                },
+                {
+                    "word": "rural",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "areas, "
+                },
+                {
+                    "word": "but"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "not"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "100%"
+                },
+                {
+                    "word": "of"
+                },
+                {
+                    "word": "course."
+                }
+            ],
+            "person": "Vasilis"
+        },
+        {
+            "words": [
+                {
+                    "word": "Well",
+                    "emotion": "uplifting",
+                    "duration": 1000
+                },
+                {
+                    "word": "you",
+                    "emotion": "uplifting"
+                },
+                {
+                    "word": "could",
+                    "emotion": "uplifting"
+                },
+                {
+                    "word": "..."
+                },
+                {
+                    "word": "I",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "mean",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "if",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "you",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "look",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "at",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "it. ",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "I"
+                },
+                {
+                    "word": "am"
+                },
+                {
+                    "word": "generalizing"
+                },
+                {
+                    "word": "here, "
+                },
+                {
+                    "word": "but"
+                },
+                {
+                    "word": "in"
+                },
+                {
+                    "word": "cities"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "usually"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "little",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "bit",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "social"
+                },
+                {
+                    "word": "and"
+                },
+                {
+                    "word": "liberal"
+                },
+                {
+                    "word": "and"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "bit"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "conservative"
+                },
+                {
+                    "word": "in"
+                },
+                {
+                    "word": "rural",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "areas, "
+                },
+                {
+                    "word": "but"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "not"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "100%"
+                },
+                {
+                    "word": "of"
+                },
+                {
+                    "word": "course."
+                }
+            ],
+            "person": "Vasilis"
+        },
+        {
+            "words": [
+                {
+                    "word": "Well",
+                    "emotion": "uplifting",
+                    "duration": 1000
+                },
+                {
+                    "word": "you",
+                    "emotion": "uplifting"
+                },
+                {
+                    "word": "could",
+                    "emotion": "uplifting"
+                },
+                {
+                    "word": "..."
+                },
+                {
+                    "word": "I",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "mean",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "if",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "you",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "look",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "at",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "it. ",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "I"
+                },
+                {
+                    "word": "am"
+                },
+                {
+                    "word": "generalizing"
+                },
+                {
+                    "word": "here, "
+                },
+                {
+                    "word": "but"
+                },
+                {
+                    "word": "in"
+                },
+                {
+                    "word": "cities"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "usually"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "little",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "bit",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "social"
+                },
+                {
+                    "word": "and"
+                },
+                {
+                    "word": "liberal"
+                },
+                {
+                    "word": "and"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "bit"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "conservative"
+                },
+                {
+                    "word": "in"
+                },
+                {
+                    "word": "rural",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "areas, "
+                },
+                {
+                    "word": "but"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "not"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "100%"
+                },
+                {
+                    "word": "of"
+                },
+                {
+                    "word": "course."
+                }
+            ],
+            "person": "Vasilis"
+        },
+        {
+            "words": [
+                {
+                    "word": "Well",
+                    "emotion": "uplifting",
+                    "duration": 1000
+                },
+                {
+                    "word": "you",
+                    "emotion": "uplifting"
+                },
+                {
+                    "word": "could",
+                    "emotion": "uplifting"
+                },
+                {
+                    "word": "..."
+                },
+                {
+                    "word": "I",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "mean",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "if",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "you",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "look",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "at",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "it. ",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "I"
+                },
+                {
+                    "word": "am"
+                },
+                {
+                    "word": "generalizing"
+                },
+                {
+                    "word": "here, "
+                },
+                {
+                    "word": "but"
+                },
+                {
+                    "word": "in"
+                },
+                {
+                    "word": "cities"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "usually"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "little",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "bit",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "social"
+                },
+                {
+                    "word": "and"
+                },
+                {
+                    "word": "liberal"
+                },
+                {
+                    "word": "and"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "bit"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "conservative"
+                },
+                {
+                    "word": "in"
+                },
+                {
+                    "word": "rural",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "areas, "
+                },
+                {
+                    "word": "but"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "not"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "100%"
+                },
+                {
+                    "word": "of"
+                },
+                {
+                    "word": "course."
+                }
+            ],
+            "person": "Vasilis"
+        },
+        {
+            "words": [
+                {
+                    "word": "Well",
+                    "emotion": "uplifting",
+                    "duration": 1000
+                },
+                {
+                    "word": "you",
+                    "emotion": "uplifting"
+                },
+                {
+                    "word": "could",
+                    "emotion": "uplifting"
+                },
+                {
+                    "word": "..."
+                },
+                {
+                    "word": "I",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "mean",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "if",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "you",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "look",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "at",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "it. ",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "I"
+                },
+                {
+                    "word": "am"
+                },
+                {
+                    "word": "generalizing"
+                },
+                {
+                    "word": "here, "
+                },
+                {
+                    "word": "but"
+                },
+                {
+                    "word": "in"
+                },
+                {
+                    "word": "cities"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "usually"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "little",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "bit",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "social"
+                },
+                {
+                    "word": "and"
+                },
+                {
+                    "word": "liberal"
+                },
+                {
+                    "word": "and"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "bit"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "conservative"
+                },
+                {
+                    "word": "in"
+                },
+                {
+                    "word": "rural",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "areas, "
+                },
+                {
+                    "word": "but"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "not"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "100%"
+                },
+                {
+                    "word": "of"
+                },
+                {
+                    "word": "course."
+                }
+            ],
+            "person": "Vasilis"
+        },
+        {
+            "words": [
+                {
+                    "word": "Well",
+                    "emotion": "uplifting",
+                    "duration": 1000
+                },
+                {
+                    "word": "you",
+                    "emotion": "uplifting"
+                },
+                {
+                    "word": "could",
+                    "emotion": "uplifting"
+                },
+                {
+                    "word": "..."
+                },
+                {
+                    "word": "I",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "mean",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "if",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "you",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "look",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "at",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "it. ",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "I"
+                },
+                {
+                    "word": "am"
+                },
+                {
+                    "word": "generalizing"
+                },
+                {
+                    "word": "here, "
+                },
+                {
+                    "word": "but"
+                },
+                {
+                    "word": "in"
+                },
+                {
+                    "word": "cities"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "usually"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "little",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "bit",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "social"
+                },
+                {
+                    "word": "and"
+                },
+                {
+                    "word": "liberal"
+                },
+                {
+                    "word": "and"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "bit"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "conservative"
+                },
+                {
+                    "word": "in"
+                },
+                {
+                    "word": "rural",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "areas, "
+                },
+                {
+                    "word": "but"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "not"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "100%"
+                },
+                {
+                    "word": "of"
+                },
+                {
+                    "word": "course."
+                }
+            ],
+            "person": "Vasilis"
+        },
+        {
+            "words": [
+                {
+                    "word": "Well",
+                    "emotion": "uplifting",
+                    "duration": 1000
+                },
+                {
+                    "word": "you",
+                    "emotion": "uplifting"
+                },
+                {
+                    "word": "could",
+                    "emotion": "uplifting"
+                },
+                {
+                    "word": "..."
+                },
+                {
+                    "word": "I",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "mean",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "if",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "you",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "look",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "at",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "it. ",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "I"
+                },
+                {
+                    "word": "am"
+                },
+                {
+                    "word": "generalizing"
+                },
+                {
+                    "word": "here, "
+                },
+                {
+                    "word": "but"
+                },
+                {
+                    "word": "in"
+                },
+                {
+                    "word": "cities"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "usually"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "little",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "bit",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "social"
+                },
+                {
+                    "word": "and"
+                },
+                {
+                    "word": "liberal"
+                },
+                {
+                    "word": "and"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "bit"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "conservative"
+                },
+                {
+                    "word": "in"
+                },
+                {
+                    "word": "rural",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "areas, "
+                },
+                {
+                    "word": "but"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "not"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "100%"
+                },
+                {
+                    "word": "of"
+                },
+                {
+                    "word": "course."
+                }
+            ],
+            "person": "Vasilis"
+        },
+        {
+            "words": [
+                {
+                    "word": "Well",
+                    "emotion": "uplifting",
+                    "duration": 1000
+                },
+                {
+                    "word": "you",
+                    "emotion": "uplifting"
+                },
+                {
+                    "word": "could",
+                    "emotion": "uplifting"
+                },
+                {
+                    "word": "..."
+                },
+                {
+                    "word": "I",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "mean",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "if",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "you",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "look",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "at",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "it. ",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "I"
+                },
+                {
+                    "word": "am"
+                },
+                {
+                    "word": "generalizing"
+                },
+                {
+                    "word": "here, "
+                },
+                {
+                    "word": "but"
+                },
+                {
+                    "word": "in"
+                },
+                {
+                    "word": "cities"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "usually"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "little",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "bit",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "social"
+                },
+                {
+                    "word": "and"
+                },
+                {
+                    "word": "liberal"
+                },
+                {
+                    "word": "and"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "bit"
+                },
+                {
+                    "word": "more"
+                },
+                {
+                    "word": "conservative"
+                },
+                {
+                    "word": "in"
+                },
+                {
+                    "word": "rural",
+                    "emotion": "thinking"
+                },
+                {
+                    "word": "areas, "
+                },
+                {
+                    "word": "but"
+                },
+                {
+                    "word": "it"
+                },
+                {
+                    "word": "is"
+                },
+                {
+                    "word": "not"
+                },
+                {
+                    "word": "a"
+                },
+                {
+                    "word": "100%"
+                },
+                {
+                    "word": "of"
+                },
+                {
+                    "word": "course."
+                }
+            ],
+            "person": "Vasilis"
         }
     ]
 }

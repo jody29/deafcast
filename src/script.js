@@ -3,36 +3,37 @@ import renderPodcast from "./modules/renderPodcast.js";
 const readingSpeed = document.querySelector('#speed')
 const currentSpeed = document.querySelector('#currentSpeed')
 const startPodcast = document.querySelector('#startPodcast')
+const podcast = document.querySelector('#podcast')
 
-let speed = 50
+let scrollRate = 10
+let scrollInterval 
 
-currentSpeed.textContent = `1 word per ${speed}ms`
+currentSpeed.textContent = `1 word per ${scrollRate}ms`
 
 readingSpeed.addEventListener('change', (e) => {
     currentSpeed.textContent = `1 word per ${e.target.value}ms`
-    speed = e.target.value
-    console.log(speed)
+    scrollRate = e.target.value
+    console.log(scrollRate)
 })
-
-let index = 0
 
 startPodcast.addEventListener('click', () => {
-    index = 0
-    renderPodcast(speed, index, () => {
-        console.log('done')
-        index++
-    })
+    podcast.scrollIntoView({ behavior: "smooth" })
+    renderPodcast()
+    setTimeout(()=>{
+        scrollUl_init()
+    },2000)
 })
 
-document.addEventListener('keyup', e => {
-    if (e.code === 'Space') {
-        if (index !== 0) {
-            renderPodcast(speed, index, () => {
-                console.log('done')
-                index++
-            })
-        }
+const scrollUl_init = () => {
+    scrollInterval = setInterval(scrollUl, scrollRate)
+}
+
+const scrollUl = () => {
+    if(podcast.scrollTop < (podcast.scrollHeight - podcast.offsetHeight)) {
+        podcast.scrollTop = podcast.scrollTop + 1
+    } else {
+        podcast.scrollTop = 0
     }
-})
+}
 
 
