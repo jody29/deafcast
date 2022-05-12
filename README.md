@@ -35,6 +35,15 @@ Marie is een UX-designer en heb daarom ervoor gekozen om een podcast te gebruike
 
 ### Add nonsense
 
+## Iteration
+### prototype 1
+<img width="697" alt="Schermafbeelding 2022-05-12 om 21 51 44" src="https://user-images.githubusercontent.com/66092262/168159182-78fa32fc-8214-4dbf-890f-b5fc91ed845f.png">
+
+### prototype 2
+<img width="1440" alt="Schermafbeelding 2022-05-12 om 10 58 08" src="https://user-images.githubusercontent.com/66092262/168157824-c80ef32c-31ae-49df-aab4-7e0d3b0eb693.png">
+
+### prototype 3
+
 
 ## Testing
 [Test 1](https://github.com/jody29/deafcast/wiki/Test-1)
