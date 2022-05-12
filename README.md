@@ -1,7 +1,7 @@
 # Deafcast
 
-## Assignment
-Een ontwerp maken voor 1 mens. Een echt mens. Je moet je ontwerp 3 keer testen. Door te testen en te itereren ga je je ontwerp verbeteren. Uiteindelijk heb je een ontwerp dat exclusief gemaakt is voor 1 persoon. Een exclusive design.
+## Beschrijving
+Voor dit project mocht ik een ontwerp maken voor 1 mens. Dit ontwerp mocht ik 3 keer testen. Door dit te testen en te itereren kan ik het onwerp verbeteren en uiteindelijk op een exclusive design voor deze persoon komen. Ik mocht een ontwerp gaan maken voor Marie. Marie is doof geboren en kan dus niks horen en weet dus ook niet hoe bepaalde dingen klonken. Bij het luisteren van een podcast krijgt ze dus niet dezelfde ervaring als mensen die kunnen horen. Dit komt omdat een transcript nuance en emotie mist die normaal te horen is bij een podcast. Ik heb er in mijn design geprobeerd voor te zorgen dat Marie iets meer van de nuance mee krijgt door verschil in font-weight en font-style bij bepaalde woorden toe te passen..
 
 ## User story
 Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
